@@ -1,1 +1,1 @@
-https://github.com/Ivan6it/ono-tebe-nado-fd/tree/master
+https://github.com/Ivan6it/ono-tebe-nado-fd
